@@ -1,8 +1,8 @@
 # Inventory-management-system-ETG
 # Brief description
-In inventory management system,we can manage our all products stored in system in step by step manner.
-From adding new products to purchasing products we can keep track of our products.
-User can add as many as products in inventory at one time and products will updated in jason file as well.
+In the inventory management system, we can manage all our products stored in the system step by step. From adding new products to purchasing those products, we can keep track of our products. The user can add as many products as possible to the inventory at once, and the products will also be updated in the Jason file.
+
+
 
 # Features
 
